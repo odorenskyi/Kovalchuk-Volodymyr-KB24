@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1744113921 source:d:\git\bmtp-lab7\kovalchuk-volodymyr-kb24\lab08\bmtp_lab8-Ковальчук\prj\bmtp_lab8.1-Ковальчук\main.cpp
+	<iostream>
+	"info.h"
+
+1744113094 d:\git\bmtp-lab7\kovalchuk-volodymyr-kb24\lab08\bmtp_lab8-Ковальчук\prj\bmtp_lab8.1-Ковальчук\info.h
+
+1744114086 source:d:\git\bmtp-lab7\kovalchuk-volodymyr-kb24\lab08\bmtp_lab8-Ковальчук\prj\bmtp_lab8.1-Ковальчук\info.cpp
+	<iostream>
+	"mathlib.h"
+
+1744114237 d:\git\bmtp-lab7\kovalchuk-volodymyr-kb24\lab08\bmtp_lab8-Ковальчук\prj\bmtp_lab8.1-Ковальчук\mathlib.h
+
+1744114040 d:\git\bmtp-lab7\kovalchuk-volodymyr-kb24\lab08\bmtp_lab8-Ковальчук\prj\bmtp_lab8.1-Ковальчук\mathlib.cpp
+	<iostream>
+	<cmath>
+	<stdexcept>
+	"mathlib.h"
+
