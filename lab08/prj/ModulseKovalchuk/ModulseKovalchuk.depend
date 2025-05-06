@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1746464102 source:d:\git\kovalchuk_lab\kovalchuk-volodymyr-kb24\lab08\prj\modulsekovalchuk\main.cpp
+	<iostream>
+	<iostream>
+	<iomanip>
+	<math.h>
+	<fstream>
+	<string>
+	<cctype>
+	<ctime>
+	<sstream>
+	<bitset>
+

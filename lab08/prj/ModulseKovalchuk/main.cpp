@@ -19,9 +19,7 @@ void calculation_s(double x, double y, double z) {
     cout << "x = " << (int)x << ", y = " << (int)y <<", z = " << (int)z << ", S = " << (int)S << dec << endl;
 }
 
-
-namespace MyLibrary {
-    void CalculateInterest(double amount, int months) {
+    double CalculateInterest(double amount, int months) {
         double rate = months <= 6 ? 0.11 : 0.13;
         double monthlyInterest = (amount * rate) / 12;
         double totalInterest = monthlyInterest * months;
@@ -68,4 +66,3 @@ namespace MyLibrary {
 
         std::cout << "Результат: " << count << std::endl;
     }
-}
