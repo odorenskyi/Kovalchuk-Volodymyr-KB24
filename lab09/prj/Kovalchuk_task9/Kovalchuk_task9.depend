@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1746543784 source:d:\git\kovalchuk_lab\kovalchuk-volodymyr-kb24\lab09\prj\kovalchuk_task9\main.cpp
+	<iostream>
+	"ModulseKovalchuk.h"
+	"locale.h"
+
+1746468189 d:\git\kovalchuk_lab\kovalchuk-volodymyr-kb24\lab08\prj\modulsekovalchuk.h
+	<iostream>
+	<iomanip>
+	<string>
+
