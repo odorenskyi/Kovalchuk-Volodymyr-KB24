@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1749063560 source:d:\git\kovalchuk_bmtp\kovalchuk-volodymyr-kb24\lab11\prj\libavramenko\main.cpp
+	"struct_type_project_9.h"
+	<iostream>
+	<fstream>
+	<string>
+	<limits>
+

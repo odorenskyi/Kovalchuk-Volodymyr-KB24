@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1749061786 source:d:\git\kovalchuk_bmtp\kovalchuk-volodymyr-kb24\lab11\prj\libkovalchuk\main.cpp
+	"struct_type_project_9.h"
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+
+1749061820 d:\git\kovalchuk_bmtp\kovalchuk-volodymyr-kb24\lab11\prj\struct_type_project_9.h
+	<string>
+	<iostream>
+	<fstream>
+	<limits>
+
