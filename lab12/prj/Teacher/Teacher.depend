@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1750175416 source:d:\git\kovalchuk_lab\kovalchuk-volodymyr-kb24\lab12\prj\teacher\main.cpp
+	<iostream>
+	<fstream>
+	<Windows.h>
+	<locale.h>
+	<iomanip>
+	<string>
+	<cmath>
+	"ModulseKovalchuk.h"
+
+1750176041 d:\git\kovalchuk_lab\kovalchuk-volodymyr-kb24\lab08\prj\modulsekovalchuk.h
+	<iostream>
+	<iomanip>
+	<cmath>
+	<Windows.h>
+
